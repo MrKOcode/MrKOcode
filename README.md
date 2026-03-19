@@ -23,8 +23,11 @@ I am a Software Engineer focused on building innovative, efficient, and security
 * **Accounting Certificate** – University of Washington
 * **Languages:** Fluent in English, Chinese, and Spanish 🌎
 
+
 ---
 
+###🔥 Favourite 
+![Charizard Lover](https://img.shields.io/badge/Lover-Charizard-red?style=for-the-badge&logo=pokemon)
 
 
 ---
