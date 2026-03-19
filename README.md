@@ -19,7 +19,7 @@ I am a Software Engineer focused on building innovative, efficient, and security
 
 ### 🎓 Education & Background
 * **B.S. in Computer Science** – Bellevue College
-* **B.S. in Business Administration (Finance)** – University at Buffalo, SUNY
+* **B.S. in Business Administration (Concentration: Financial Analysis)** – University at Buffalo, SUNY
 * **Accounting Certificate** – University of Washington
 * **Languages:** Fluent in English, Chinese, and Spanish 🌎
 
