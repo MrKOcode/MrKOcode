@@ -26,8 +26,8 @@ I am a Software Engineer focused on building innovative, efficient, and security
 
 ---
 
-###🔥 Favourite 
 ![Charizard Lover](https://img.shields.io/badge/Lover-Charizard-red?style=for-the-badge&logo=pokemon)
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="100" />
 
 
 ---
