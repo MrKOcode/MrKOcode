@@ -16,6 +16,7 @@ I enjoy working across the full software lifecycle—from system architecture an
 * **Database:** MySQL, SQLite, MongoDB, DynamoDB
 * **Cloud & DevOps:** AWS (Lambda, Cognito), WebSocket, Git/GitHub, Docker
 * **AI & ML:** LangChain, Local LLM Deployment (DeepSeek, Qwen), vLLM, CUDA, OpenAI API
+* **Engineering Practices:** System Design, Domain-driven design, RESTful API Design, Unit&Integration Testing, Performance Testing, CI/CD, Git-based development
 
 
 ---
