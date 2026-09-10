@@ -1,7 +1,10 @@
 # Hi there,  👋
 
-### Software Developer | Full-Stack & AI Solutions
-I am a Software Engineer focused on building innovative, efficient, and security-conscious solutions. I specialize in **Domain-Driven Design** and leveraging **AI tools** to enhance productivity and problem-solving without over-reliance.
+### Software Engineer | Backend, Cloud & AI Systems
+
+I'm a software engineer focused on building backend services, cloud-native applications, and AI-powered systems. My primary development experience is with Go, Python, React, AWS, and modern LLM infrastructure, with an emphasis on designing software that is modular, secure, testable, and deployable.
+
+I enjoy working across the full software lifecycle—from system architecture and API design to cloud deployment, CI/CD, testing, and production debugging. My projects include full-stack AI applications, microservice architectures, local LLM infrastructure, machine learning systems, and security-conscious web applications.
 
 ---
 
