@@ -1,10 +1,13 @@
 # Hi there,  👋
 
-### Software Engineer | Backend, Cloud & AI Systems
+### Software Engineer | Backend, Cloud & AI Systems, Fintech
 
 I'm a software engineer focused on building backend services, cloud-native applications, and AI-powered systems. My primary development experience is with Go, Python, React, AWS, and modern LLM infrastructure, with an emphasis on designing software that is modular, secure, testable, and deployable.
 
 I enjoy working across the full software lifecycle—from system architecture and API design to cloud deployment, CI/CD, testing, and production debugging. My projects include full-stack AI applications, microservice architectures, local LLM infrastructure, machine learning systems, and security-conscious web applications.
+
+In addition to my computer science background, I have a B.S. in Business Administration with a concentration in Financial Analysis, along with academic training in accounting. My financial knowledge includes equities, bonds, mutual funds, interest rates, valuation, financial risk assessment, and financial markets. I also have knowledge of financial accounting, including balance sheets, income statements, cash flow statements, financial reporting, and enterprise accounting principles.
+
 
 ---
 
@@ -16,7 +19,8 @@ I enjoy working across the full software lifecycle—from system architecture an
 * **Database:** MySQL, SQLite, MongoDB, DynamoDB
 * **Cloud & DevOps:** AWS (Lambda, Cognito), WebSocket, Git/GitHub, Docker
 * **AI & ML:** LangChain, Local LLM Deployment (DeepSeek, Qwen), vLLM, CUDA, OpenAI API
-* **Engineering Practices:** System Design, Domain-driven design, RESTful API Design, Unit&Integration Testing, Performance Testing, CI/CD, Git-based development
+* **Engineering Practices:** System Design, software design patterns, Domain-driven design, RESTful API Design, Unit&Integration Testing, Performance Testing, CI/CD pipelines, automation, Git-based development
+
 
 
 ---
@@ -24,8 +28,10 @@ I enjoy working across the full software lifecycle—from system architecture an
 ### 🎓 Education & Background
 * **B.S. in Computer Science** – Bellevue College
 * **B.S. in Business Administration (Concentration: Financial Analysis)** – University at Buffalo, SUNY
-* **Accounting Certificate** – University of Washington
+* **Accounting Certificate** – University of Washington Seattle
 * **Languages:** Fluent in English, Chinese, and Spanish 🌎
+* **US citizen**
+* 
 
 
 ---
