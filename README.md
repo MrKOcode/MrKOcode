@@ -19,7 +19,7 @@ In addition to my computer science background, I have a B.S. in Business Adminis
 * **Database:** MySQL, SQLite, MongoDB, DynamoDB
 * **Cloud & DevOps:** AWS (Lambda, Cognito), WebSocket, Git/GitHub, Docker
 * **AI & ML:** LangChain, Local LLM Deployment (DeepSeek, Qwen), vLLM, CUDA, OpenAI API
-* **Engineering Practices:** System Design, software design patterns, Domain-driven design, RESTful API Design, Unit&Integration Testing, Performance Testing, CI/CD pipelines, automation, Git-based development
+* **Engineering Practices:** System Design, Software Design Patterns, RESTful API Design, Concurrent Programming, Synchronization & Race Condition Prevention, Distributed Systems Design, Data Consistency & Concurrency Control, Transaction Management, Authentication & Authorization, Secure Coding Practices, Unit & Integration Testing, Performance Testing, CI/CD Pipelines, Deployment Automation & AI integration.
 
 
 
